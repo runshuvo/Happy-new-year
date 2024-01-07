@@ -1,0 +1,73 @@
+*{
+    margin-left: 10px;
+}
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+}
+.divh {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .header{
+    color: #FFF;
+    font-family: Merriweather;
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
+  .first{
+    font-size: 32px;
+    font-weight: 400;
+  }
+  .second{
+    font-size: 72px;
+    font-weight: 900;
+  }
+.page1{
+    
+}
+.page2-text{
+    text-align: center;
+}
+.off{
+    font-size: 88px;
+    font-weight: 700;
+}
+.holiday{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.category{
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
