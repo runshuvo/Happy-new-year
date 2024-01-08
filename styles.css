@@ -153,8 +153,9 @@ font-weight: 400;
   margin-left: 45%;
 }
 .page6{
-  background-color: rgba(255, 0, 0, 0.05);
+  background-color: rgba(255, 0, 0, 0.116);
   padding-bottom: 100px;
+  margin: 50px 75px 10px 75px;
 }
 .page6 h1{
   color: #070211;
@@ -188,4 +189,54 @@ input{
   width: 500px;
 height: 15px;
 border: none;
+}
+.page5-pic{
+  display: flex;
+}
+
+
+.footer-text{
+  text-decoration-line: none;
+  text-align: justify;
+}
+.Big{
+  color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+  width: 50%;
+  float: left;
+  margin-left: 150px;
+ 
+}
+.nmbr{
+  color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+  margin-right: 175px;
+  float: right;
+  
+}
+.footer-img{
+  display: flex;
+  align-items: center;
+  margin: 100px;
+  margin-left: 37%;
+}
+hr{
+  width: 70%;
+  align-items: center;
+  margin-left: 200px;
+}
+.footer,.footer-last{
+  background: #070211;
+}
+.all{
+  width: 50%;
+  float: left;
+}
+.un{
+  width: 50%;
+  float: right;
 }
