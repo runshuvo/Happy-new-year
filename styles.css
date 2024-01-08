@@ -206,7 +206,7 @@ font-family: Inter;
 font-size: 24px;
   width: 50%;
   float: left;
-  margin-left: 150px;
+  margin-left: 2%;
  
 }
 .nmbr{
@@ -214,7 +214,7 @@ font-size: 24px;
 
 font-family: Inter;
 font-size: 24px;
-  margin-right: 175px;
+  margin-right: 50px;
   float: right;
   
 }
@@ -227,16 +227,32 @@ font-size: 24px;
 hr{
   width: 70%;
   align-items: center;
-  margin-left: 200px;
+  margin-left: 150px;
+  border: solid rgba(255, 255, 255, 0.15) 1px;
+  
 }
-.footer,.footer-last{
+.footer{
   background: #070211;
+ margin: 75px;
+  height: 600px;
+  width: 1250px;
 }
 .all{
   width: 50%;
   float: left;
 }
 .un{
-  width: 50%;
+  margin-right: 5%;
   float: right;
+}
+
+.footer-text{
+  padding: 30px;
+}
+.footer-last{
+  color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
 }
